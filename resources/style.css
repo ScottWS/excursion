@@ -9,12 +9,28 @@ h1 {
     display: block;
 }
 
+h2 {
+    font-size: 42px;
+}
+
+.footer {
+    text-align: right;
+}
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
+
 
 body {
     font-family: Verdana, sans-serif;
     text-align: center;
     background-color: black;
     color: white;
+}
+
+
 
 
 
